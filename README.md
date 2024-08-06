@@ -1,1 +1,1 @@
-# Sabin-Rains-Hexagonal-Game
+# Sabin Rains Hexagonal Game
